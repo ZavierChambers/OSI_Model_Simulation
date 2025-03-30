@@ -93,19 +93,8 @@ Licensed under the MIT License.
 Feel free to fork, modify, and learn from it!
 
 🧑‍💻 Author
-Built by IT Guy
+Built by Zavier Chambers
 For learning how real NICs, Ethernet, and low-level data transmission work 🚀
 Use it to practice cybersecurity, networking fundamentals, or build your own Wireshark-inspired toy.
 
-yaml
-Copy
-Edit
-
 ---
-
-Let me know if you want:
-- A matching `LICENSE` file
-- A `.gitignore` for Python
-- A logo/banner to top off your repo
-
-Let’s make this repo pop on GitHub, IT Guy 🚀🖥️
